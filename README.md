@@ -7,7 +7,7 @@
  * PURPOSE AND DESCRIPTION: 
  * 1. Course Project Part 2 - Case 1: Inland Empire Solar Sales Travel
  *    This Program finds the possible trips the salesman can take, the two shortest paths, and the cost of those paths.
- *    This is done through the use of the branch and bound method which explores the solution space by dividing it into smaller   
+ *    This is done through the use of the branch and bound method which explores the solution space by dividing it into smaller
  *    subproblems and eliminating branches that are guaranteed to contain suboptimal solutions. A multitude of Discrete Structure
  *    concepts are exibited, especially through the use of the adjacency matrix and looping through each permutation to find the
  *    shortest trip(s).
